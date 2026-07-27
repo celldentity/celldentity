@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=celldentity&fontSize=60&fontColor=ffffff&desc=%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=230&section=header&text=celldentity&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=53&descSize=16" />
 
 **아이디어를 직접 만들고, 배포하고, 계속 운영하는 개발자입니다.**
 
@@ -21,43 +21,30 @@
 
 ## 🛠 Tech Stack
 
-**Backend**
+<table>
+<tr>
+<td align="right" width="130"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,flask,mysql&theme=dark" height="42" /></td>
+</tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,html,css,bootstrap&theme=dark" height="42" /></td>
+</tr>
+<tr>
+<td align="right"><b>AI / Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=opencv,firebase&theme=dark" height="42" /></td>
+</tr>
+<tr>
+<td align="right"><b>Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=vercel,docker,gcp,cloudflare&theme=dark" height="42" /></td>
+</tr>
+<tr>
+<td align="right"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42" /></td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TiDB](https://img.shields.io/badge/TiDB-DC477D?style=flat-square&logo=tidb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-
-**AI / Data**
-
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Infra / Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+<sub>아이콘이 없는 것들 — **TiDB**(MySQL 호환 분산 DB) · **YOLO** · **Gemini API** · **Oracle Cloud** · **Jira**</sub>
 
 ## 🚀 주요 프로젝트
 

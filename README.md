@@ -88,8 +88,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=celldentity&show_icons=true&hide_border=true&theme=tokyonight&locale=ko" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celldentity&layout=compact&hide_border=true&theme=tokyonight&locale=ko" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celldentity&theme=tokyonight" width="88%" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celldentity&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celldentity&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=celldentity&theme=tokyo-night&hide_border=true&area=true" width="88%" />
 
 </div>
 

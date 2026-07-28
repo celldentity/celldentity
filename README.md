@@ -21,49 +21,11 @@
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td align="right" width="130"><b>Backend</b></td>
-<td>
-<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="42" /></a>
-<a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="42" /></a>
-<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42" /></a>
-</td>
-</tr>
-<tr>
-<td align="right"><b>Frontend</b></td>
-<td>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="42" /></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="42" /></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="42" /></a>
-<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="42" /></a>
-</td>
-</tr>
-<tr>
-<td align="right"><b>AI / Data</b></td>
-<td>
-<a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="42" /></a>
-<a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="42" /></a>
-</td>
-</tr>
-<tr>
-<td align="right"><b>Infra</b></td>
-<td>
-<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="42" /></a>
-<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="42" /></a>
-<a href="https://cloud.google.com" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="42" /></a>
-<a href="https://www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" height="42" /></a>
-</td>
-</tr>
-<tr>
-<td align="right"><b>Tools</b></td>
-<td>
-<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="42" /></a>
-<a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" /></a>
-<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="42" /></a>
-</td>
-</tr>
-</table>
+<p><b>Backend</b>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="40" /></a>&nbsp;<a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" /></a>&nbsp;<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" /></a>&nbsp;</p>
+<p><b>Frontend</b>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" /></a>&nbsp;<a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" /></a>&nbsp;<a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" /></a>&nbsp;<a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40" /></a>&nbsp;</p>
+<p><b>AI / Data</b>&nbsp;&nbsp;&nbsp;<a href="https://opencv.org" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="40" /></a>&nbsp;<a href="https://firebase.google.com" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" /></a>&nbsp;</p>
+<p><b>Infra</b>&nbsp;&nbsp;&nbsp;<a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40" /></a>&nbsp;<a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" /></a>&nbsp;<a href="https://cloud.google.com" title="Google Cloud"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="40" /></a>&nbsp;<a href="https://www.cloudflare.com" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" height="40" /></a>&nbsp;</p>
+<p><b>Tools</b>&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" /></a>&nbsp;<a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" /></a>&nbsp;<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" /></a>&nbsp;</p>
 
 <sub>아이콘이 없는 것들 — <a href="https://www.pingcap.com/tidb/"><b>TiDB</b></a>(MySQL 호환 분산 DB) · <a href="https://docs.ultralytics.com"><b>YOLO</b></a> · <a href="https://ai.google.dev"><b>Gemini API</b></a> · <a href="https://www.oracle.com/cloud/"><b>Oracle Cloud</b></a> · <a href="https://www.atlassian.com/software/jira"><b>Jira</b></a></sub>
 

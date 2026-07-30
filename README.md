@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=230&section=header&text=celldentity&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=53&descSize=16" />
 
-**아이디어를 직접 만들고, 배포하고, 계속 운영하는 개발자입니다.**
+**아이디어를 직접 만들고, 배포하고, 운영하는 코딩하는 HRer 입니다.**
 
 [![Website](https://img.shields.io/badge/aibunker.kr-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://aibunker.kr)
 [![Gmail](https://img.shields.io/badge/ksb2116@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksb2116@gmail.com)

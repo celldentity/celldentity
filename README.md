@@ -14,7 +14,7 @@
 ## 🧭 About Me
 
 - 개인 서비스를 **기획 → 개발 → 배포 → 운영**까지 혼자 끝까지 돌려본 경험이 있습니다.
-- Flask 블루프린트 기반으로 16개 도메인을 한 앱에 얹은 개인 포털 [**AI Bunker**](https://aibunker.kr)를 직접 운영 중입니다.
+- Flask 블루프린트 기반으로 17개 도메인을 한 앱에 얹은 개인 포털 [**AI Bunker**](https://aibunker.kr)를 직접 운영 중입니다.
 - 서버리스(Vercel)·컨테이너(Docker)·클라우드 VM(Oracle Cloud, GCP) 배포를 모두 다뤄봤습니다.
 - YOLO 기반 비전 모델을 웹/PWA 서비스에 연결하는 실전형 개발에 관심이 많습니다.
 - 코드를 "돌아가게" 만드는 것보다, **캐시·세션·배포 환경까지 재현해서 확인하는 것**을 중요하게 생각합니다.
@@ -31,10 +31,24 @@
 </tr>
 <tr>
 <td align="right" width="110"><b>Frontend</b></td>
-<td width="56" align="center"><a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" /></a></td>
 <td width="56" align="center"><a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" /></a></td>
 <td width="56" align="center"><a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" /></a></td>
+<td width="56" align="center"><a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" /></a></td>
 <td width="56" align="center"><a href="https://getbootstrap.com" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40" height="40" /></a></td>
+</tr>
+<tr>
+<td align="right" width="110"><b>Frontend (SPA)</b></td>
+<td width="56" align="center"><a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" height="40" /></a></td>
+<td width="56" align="center"><a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /></a></td>
+<td width="56" align="center"><a href="https://vitejs.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="40" height="40" /></a></td>
+<td width="56"></td>
+</tr>
+<tr>
+<td align="right" width="110"><b>Mobile</b></td>
+<td width="56" align="center"><a href="https://kotlinlang.org" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="40" height="40" /></a></td>
+<td width="56" align="center"><a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="40" height="40" /></a></td>
+<td width="56"></td>
+<td width="56"></td>
 </tr>
 <tr>
 <td align="right" width="110"><b>AI / Data</b></td>
@@ -65,7 +79,8 @@
 
 | 프로젝트 | 설명 |
 | --- | --- |
-| **[AI Bunker](https://aibunker.kr)** | Flask 블루프린트 16개(갤러리·블로그·다이어리·GIS·타자·심리검사·장기/체스 등)를 한 앱으로 묶은 개인 포털. Vercel 서버리스 + TiDB(MySQL 호환) 운영 |
+| **[AI Bunker](https://aibunker.kr)** | Flask 블루프린트 17개(갤러리·블로그·다이어리·GIS·타자·심리검사·가계부·장기/체스 등)를 한 앱으로 묶은 개인 포털. Vercel 서버리스 + TiDB(MySQL 호환) 운영, 일부 화면은 React/TypeScript SPA로 전환 |
+| **[drivelog](https://github.com/celldentity/drivelog)** | 안드로이드 단독 1초 단위 주행 기록 → CSV/JSON 자동 내보내기 앱. GitHub Actions로 APK 자동 빌드 |
 | **[crack_project](https://github.com/celldentity/crack_project)** | YOLO 기반 포트홀 감지 PWA. 촬영 → 추론 → 위치 기록까지 풀스택으로 구현 |
 | **[flask26](https://github.com/celldentity/flask26)** | 회원·게시판·성적·LMS 기능을 직접 구현하며 정리한 Flask 앱 |
 | **[With-JIRA-AIX](https://github.com/celldentity/With-JIRA-AIX)** | Jira로 팀 프로젝트 이슈·스프린트를 관리한 협업 기록 |
@@ -87,7 +102,7 @@
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celldentity&theme=tokyonight" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celldentity&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=celldentity&theme=tokyo-night&hide_border=true&area=true" width="88%" />
+<img src="https://activity-graph.vercel.app/graph?username=celldentity&theme=tokyo-night&hide_border=true&area=true" width="88%" />
 
 </div>
 

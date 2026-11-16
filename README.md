@@ -14,7 +14,8 @@
 ## 🧭 About Me
 
 - 개인 서비스를 **기획 → 개발 → 배포 → 운영**까지 혼자 끝까지 돌려본 경험이 있습니다.
-- Flask 블루프린트 기반으로 17개 도메인을 한 앱에 얹은 개인 포털 [**AI Bunker**](https://aibunker.kr)를 직접 운영 중입니다.
+- Flask 블루프린트 기반으로 25개가 넘는 도메인을 한 앱에 얹은 개인 포털 [**AI Bunker**](https://aibunker.kr)를 직접 운영 중입니다.
+- 현업(HR·경영지원)에서 필요한 일을 **직접 코딩해 사내 업무 포털(HSMnT)로 만들어 실제로 쓰이게** 하고 있습니다 — 근태·급여·채용·도면·생산 현장까지.
 - 서버리스(Vercel)·컨테이너(Docker)·클라우드 VM(Oracle Cloud, GCP) 배포를 모두 다뤄봤습니다.
 - YOLO 기반 비전 모델을 웹/PWA 서비스에 연결하는 실전형 개발에 관심이 많습니다.
 - 코드를 "돌아가게" 만드는 것보다, **캐시·세션·배포 환경까지 재현해서 확인하는 것**을 중요하게 생각합니다.
@@ -41,7 +42,7 @@
 <td width="56" align="center"><a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" height="40" /></a></td>
 <td width="56" align="center"><a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /></a></td>
 <td width="56" align="center"><a href="https://vitejs.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="40" height="40" /></a></td>
-<td width="56"></td>
+<td width="56" align="center"><a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" /></a></td>
 </tr>
 <tr>
 <td align="right" width="110"><b>Mobile</b></td>
@@ -73,13 +74,14 @@
 </tr>
 </table>
 
-<sub>아이콘이 없는 것들 — <a href="https://www.pingcap.com/tidb/"><b>TiDB</b></a>(MySQL 호환 분산 DB) · <a href="https://docs.ultralytics.com"><b>YOLO</b></a> · <a href="https://ai.google.dev"><b>Gemini API</b></a> · <a href="https://www.oracle.com/cloud/"><b>Oracle Cloud</b></a> · <a href="https://www.atlassian.com/software/jira"><b>Jira</b></a></sub>
+<sub>아이콘이 없는 것들 — <a href="https://www.pingcap.com/tidb/"><b>TiDB</b></a>(MySQL 호환 분산 DB) · <b>SQLAlchemy</b> · <b>TanStack Query</b> · <b>Cloudflare R2</b>(오브젝트 스토리지) · <b>Web Push</b> · <a href="https://docs.ultralytics.com"><b>YOLO</b></a> · <a href="https://ai.google.dev"><b>Gemini API</b></a> · <a href="https://www.oracle.com/cloud/"><b>Oracle Cloud</b></a> · <a href="https://www.atlassian.com/software/jira"><b>Jira</b></a></sub>
 
 ## 🚀 주요 프로젝트
 
 | 프로젝트 | 설명 |
 | --- | --- |
-| **[AI Bunker](https://aibunker.kr)** | Flask 블루프린트 17개(갤러리·블로그·다이어리·GIS·타자·심리검사·가계부·장기/체스 등)를 한 앱으로 묶은 개인 포털. Vercel 서버리스 + TiDB(MySQL 호환) 운영, 일부 화면은 React/TypeScript SPA로 전환 |
+| **HSMnT — 사내 경영지원·생산 통합 포털** *(비공개 · 업무 시스템)* | 제조업 현장에서 쓰는 사내 포털을 혼자 설계·개발·운영. 근태·연차·급여명세서·채용(스크리닝·수습평가)·도면 관리(DWG 미리보기)·생산 현장 태블릿·재고/작업 관리까지 하나의 원장(TiDB)에 연결. **React 18 · TypeScript · Vite · Tailwind + Flask · SQLAlchemy**, Vercel(서울 리전) + 크론 7종, 백엔드 기능 모듈 74개 · 자동 점검 테스트 파일 120+. 개인정보 컬럼 암호화, 메뉴별 서버 권한 검증, 비공개 오브젝트 스토리지 + 만료형 서명 URL, 웹 푸시 알림 |
+| **[AI Bunker](https://aibunker.kr)** | Flask 블루프린트 25개+(갤러리·블로그·다이어리·캘린더·GIS·3D 타자·리듬게임·심리/스크리닝 검사·가계부·학습자료 등)를 한 앱으로 묶은 개인 포털. 폰트 2,279종·스킬 425종·애니메이션 아이콘 1,233종 등 오픈소스 자료 아카이브, 로그인 무차별 대입 방어, Vercel 서버리스 + TiDB 운영, 일부 화면은 React/TypeScript SPA로 전환 (커밋 1,800+) |
 | **[drivelog](https://github.com/celldentity/drivelog)** | 안드로이드 단독 1초 단위 주행 기록 → CSV/JSON 자동 내보내기 앱. GitHub Actions로 APK 자동 빌드 |
 | **[crack_project](https://github.com/celldentity/crack_project)** | YOLO 기반 포트홀 감지 PWA. 촬영 → 추론 → 위치 기록까지 풀스택으로 구현 |
 | **[flask26](https://github.com/celldentity/flask26)** | 회원·게시판·성적·LMS 기능을 직접 구현하며 정리한 Flask 앱 |
@@ -88,6 +90,7 @@
 
 ## 📌 Current Interests
 
+- 엑셀·종이로 흩어진 업무를 **하나의 원장(DB)** 으로 모으는 업무 자동화 / 제조 현장 시스템화
 - 서버리스 환경에서의 Flask 구조 설계와 콜드 스타트 대응
 - 개인 데이터(사진·일기·방문 로그)를 다루는 아카이브 서비스
 - 비전 AI 모델을 실제 웹 서비스에 붙이는 파이프라인

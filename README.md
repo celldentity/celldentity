@@ -109,19 +109,6 @@
 - 비전 AI 모델을 실제 웹 서비스에 붙이는 파이프라인
 - 크로스 브라우저 / 모바일 UX 디버깅
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=celldentity&theme=tokyonight" width="88%" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celldentity&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=celldentity&theme=tokyonight" />
-
-<img src="https://activity-graph.vercel.app/graph?username=celldentity&theme=tokyo-night&hide_border=true&area=true" width="88%" />
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer" />

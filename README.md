@@ -28,8 +28,7 @@
 
 갤러리·블로그·일기·지도·타자 연습·리듬 게임·심리 검사까지, 25개+ 기능을 한 앱에 담았습니다.
 
-<a href="https://aibunker.kr"><img src="assets/aibunker-home.jpg" width="49%" alt="AI Bunker 홈" /></a>
-<a href="https://aibunker.kr/typing"><img src="assets/aibunker-typing.jpg" width="49%" alt="AI Bunker 타자 연습" /></a>
+<a href="https://aibunker.kr"><img src="assets/aibunker-scenes.jpg" width="100%" alt="AI Bunker 화면 모음 — 홈, 타자 연습, 리듬 게임, AI 체스, 큐브, 에디토리얼, 갤러리, 지도, 심리 검사" /></a>
 
 [aibunker.kr](https://aibunker.kr) · [타자 연습 해 보기](https://aibunker.kr/typing)
 

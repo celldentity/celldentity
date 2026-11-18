@@ -20,6 +20,8 @@
 - 브라우저 **DWG·PDF 도면 뷰어**, 설비 태블릿 **현장 포털**까지 자체 개발
 - **개인정보 암호화 · 서버측 권한 검증 · 만료형 서명 URL**, 법 기준을 먼저 검산하는 급여·연차 로직
 
+<img src="assets/portal-scenes.jpg" width="100%" alt="HSMnT 통합업무포털 화면 — 근태·연차 관리, 연차 집계표, 작업관리, 채용공고" />
+
 → 구조와 운영 방식은 [PROJECTS.md](PROJECTS.md)
 
 ### 🎮 AI Bunker · 개인 서비스

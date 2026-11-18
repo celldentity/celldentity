@@ -21,13 +21,9 @@
 
 ### 🎮 AI Bunker · 개인 서비스
 
-<a href="https://aibunker.kr"><img src="assets/ai-bunker.gif" width="340" align="right" alt="AI Bunker" /></a>
-
 갤러리·블로그·일기·지도·타자 연습·리듬 게임·심리 검사까지, 25개+ 기능을 한 앱에 담았습니다.
 
 [aibunker.kr](https://aibunker.kr) · [타자 연습 해 보기](https://aibunker.kr/typing)
-
-<br clear="all" />
 
 ### 🧪 그 밖에
 

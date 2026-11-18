@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 904 108" width="904" height="108" role="img" aria-label="HSMnT 규모: 기능 모듈 70개 이상, 코드 20만 줄 이상, 자동 점검 테스트 120개 이상, 1인 설계·개발·운영">
+  <defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+  <style>text{font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',system-ui,sans-serif}</style>
+  <g transform="translate(0,0)">
+    <rect x="0" y="0" width="208" height="108" rx="14" fill="#0b1630" stroke="#1d4ed8" stroke-opacity="0.55"/>
+    <rect x="0" y="0" width="208" height="4" rx="2" fill="url(#bar)"/>
+    <text x="104" y="60" text-anchor="middle" font-size="38" font-weight="800" fill="#fff">70+</text>
+    <text x="104" y="87" text-anchor="middle" font-size="14" fill="#8bbcff">기능 모듈</text>
+    <animate attributeName="opacity" dur="0.6s" begin="0.0s" values="0;1" fill="freeze"/>
+  </g>
+  <g transform="translate(226,0)">
+    <rect x="0" y="0" width="208" height="108" rx="14" fill="#0b1630" stroke="#1d4ed8" stroke-opacity="0.55"/>
+    <rect x="0" y="0" width="208" height="4" rx="2" fill="url(#bar)"/>
+    <text x="104" y="60" text-anchor="middle" font-size="38" font-weight="800" fill="#fff">20만 줄+</text>
+    <text x="104" y="87" text-anchor="middle" font-size="14" fill="#8bbcff">Python · TypeScript</text>
+    <animate attributeName="opacity" dur="0.6s" begin="0.15s" values="0;1" fill="freeze"/>
+  </g>
+  <g transform="translate(452,0)">
+    <rect x="0" y="0" width="208" height="108" rx="14" fill="#0b1630" stroke="#1d4ed8" stroke-opacity="0.55"/>
+    <rect x="0" y="0" width="208" height="4" rx="2" fill="url(#bar)"/>
+    <text x="104" y="60" text-anchor="middle" font-size="38" font-weight="800" fill="#fff">120+</text>
+    <text x="104" y="87" text-anchor="middle" font-size="14" fill="#8bbcff">자동 점검 테스트</text>
+    <animate attributeName="opacity" dur="0.6s" begin="0.3s" values="0;1" fill="freeze"/>
+  </g>
+  <g transform="translate(678,0)">
+    <rect x="0" y="0" width="208" height="108" rx="14" fill="#0b1630" stroke="#1d4ed8" stroke-opacity="0.55"/>
+    <rect x="0" y="0" width="208" height="4" rx="2" fill="url(#bar)"/>
+    <text x="104" y="60" text-anchor="middle" font-size="38" font-weight="800" fill="#fff">1인</text>
+    <text x="104" y="87" text-anchor="middle" font-size="14" fill="#8bbcff">설계 · 개발 · 운영</text>
+    <animate attributeName="opacity" dur="0.6s" begin="0.44999999999999996s" values="0;1" fill="freeze"/>
+  </g>
+</svg>

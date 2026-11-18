@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=230&section=header&text=celldentity&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0%20%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=53&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=230&section=header&text=celldentity&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EC%97%91%EC%85%80%EA%B3%BC%20%EC%A2%85%EC%9D%B4%EB%A1%9C%20%EB%8F%8C%EB%8D%98%20HR%C2%B7%EA%B2%BD%EC%98%81%EC%A7%80%EC%9B%90%20%EC%97%85%EB%AC%B4%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%94%EA%BF%89%EB%8B%88%EB%8B%A4&descAlignY=53&descSize=16" />
 
-**아이디어를 직접 만들고, 배포하고, 운영하는 코딩하는 HRer 입니다.**
+**HR·경영지원 실무자이면서, 그 업무를 자동화하는 시스템을 직접 만들어 운영합니다.**
 
 [![Website](https://img.shields.io/badge/aibunker.kr-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://aibunker.kr)
 [![Gmail](https://img.shields.io/badge/ksb2116@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksb2116@gmail.com)
@@ -11,16 +11,54 @@
 
 ---
 
-## 🧭 About Me
+## 👋 한눈에 보기
 
-- 개인 서비스를 **기획 → 개발 → 배포 → 운영**까지 혼자 끝까지 돌려본 경험이 있습니다.
-- Flask 블루프린트 기반으로 25개가 넘는 도메인을 한 앱에 얹은 개인 포털 [**AI Bunker**](https://aibunker.kr)를 직접 운영 중입니다.
-- 현업(HR·경영지원)에서 필요한 일을 **직접 코딩해 사내 업무 포털(HSMnT)로 만들어 실제로 쓰이게** 하고 있습니다 — 근태·급여·채용·도면·생산 현장까지.
-- 서버리스(Vercel)·컨테이너(Docker)·클라우드 VM(Oracle Cloud, GCP) 배포를 모두 다뤄봤습니다.
-- YOLO 기반 비전 모델을 웹/PWA 서비스에 연결하는 실전형 개발에 관심이 많습니다.
-- 코드를 "돌아가게" 만드는 것보다, **캐시·세션·배포 환경까지 재현해서 확인하는 것**을 중요하게 생각합니다.
+| | |
+| --- | --- |
+| **하는 일** | 제조업 HR·경영지원 실무 + 그 업무를 자동화하는 사내 포털 설계·개발·운영 |
+| **강점** | 현업 요구를 개발자에게 전달하는 게 아니라, **문제를 아는 사람이 직접 화면과 DB까지** 만듭니다 |
+| **대표 성과** | 사내 업무 포털 **HSMnT** — 근태·급여명세서·채용·입퇴사·생산 현장까지 하나의 시스템으로, 실제 업무에 사용 중 |
+| **그 밖에** | 개인 서비스 [AI Bunker](https://aibunker.kr)를 기획부터 배포·운영까지 혼자 운영 중 |
 
-## 🛠 Tech Stack
+## 🏭 HSMnT — 사내 경영지원·생산 통합 포털 *(비공개 · 업무 시스템)*
+
+흩어진 엑셀·종이·여러 시스템을 **한 곳의 데이터(DB)로 모으고, 그 위에서 일하게** 만들었습니다.
+
+| 업무 | 어떻게 바꿨나 |
+| --- | --- |
+| **근태·연차** | 업무일지를 매일 DB에 적재하고, 화면 숫자가 엑셀 수식 결과와 같은지 자동 대조 |
+| **급여명세서** | 사원이 모바일로 본인 내역 확인. PDF는 근태 서명 후에만 내려받도록 서버에서 검증 |
+| **채용·수습평가** | 직무별 기준표로 이력서 스크리닝, 부서장·인사 평가를 합산하는 수습평가, 면접 기록 |
+| **입사·퇴사** | 신규 입사자의 조직도·비상연락망·좌석 자동 반영, 퇴직 체크리스트 → 본인 작성 → 부서장 전자결재 |
+| **사원 소통** | 웹 푸시 공지, 모바일 사원포털, 정기 행사·건강검진 안내 |
+| **규정·법령** | 취업규칙·급여규정 열람, 퇴직금 기간 산정, 외국인 체류자격별 처리 가이드 |
+| **생산 현장** | 설비 태블릿 포털, 도면 관리(DWG 미리보기), 작업·재고 장부 |
+
+### HR 실무자라서 다르게 만든 것
+
+- **법정 기준부터 계산합니다.** 채용공고 급여를 "사내 자료와 일치"만 보고 올렸다가 최저임금 기준(주휴수당 누락)으로 반려된 적이 있습니다. 그 뒤로 외부에 나가는 숫자는 법정 하한을 먼저 검산하는 규칙을 만들었습니다.
+- **재직 여부는 상태가 아니라 날짜로 판단합니다.** 퇴직 "예정"을 미리 입력해도 퇴직일 전에는 재직자로 취급합니다. 상태값만 믿었다가 아직 근무 중인 사람이 집계에서 빠진 사고에서 나온 설계입니다.
+- **엑셀은 재료, DB가 원장입니다.** 엑셀을 한 번 옮겨 적재하고 나면 이후 모든 화면·집계는 DB만 봅니다.
+- **개인정보는 열어 두지 않습니다.** 민감 컬럼 암호화, 서류는 비공개 저장소 + 2분짜리 임시 주소로만, 화면별 권한은 서버가 검사합니다.
+
+기술 구조와 운영 방식(배포·백업·권한 감사)은 **[PROJECTS.md](PROJECTS.md)** 에 정리했습니다.
+
+## 🤝 일하는 방식
+
+- **AI 코딩 에이전트(Claude Code)와 협업합니다.** 무엇을 만들지, 결과가 맞는지의 판단과 검증은 제가 하고, 사고가 날 때마다 **재발 방지 규칙을 문서와 스크립트로 남깁니다.**
+- **배포했다고 끝내지 않고, 실제로 뜨는지 확인합니다.** 빌드 성공과 서비스 정상은 다르다는 걸 장애로 배웠고, 배포 후 헬스 체크를 직접 합니다.
+- **혼자 만들고 혼자 운영합니다.** 기획 → 개발 → 배포 → 운영 → 사용자 문의 대응까지 한 사람이 끝까지 돕니다.
+
+## 🧪 그 밖의 프로젝트
+
+| 프로젝트 | 설명 |
+| --- | --- |
+| **[AI Bunker](https://aibunker.kr)** | 갤러리·블로그·캘린더·GIS·타자 게임·심리 검사·가계부 등 25개+ 기능을 한 앱으로 묶은 개인 포털. 서버리스(Vercel) + DB 운영, 로그인 무차별 대입 방어, DB 전체 백업·권한 감사 스크립트 (커밋 1,800+) |
+| **[drivelog](https://github.com/celldentity/drivelog)** | 안드로이드 1초 단위 주행 기록 → CSV/JSON 내보내기 앱. GitHub Actions로 APK 자동 빌드 |
+| **[crack_project](https://github.com/celldentity/crack_project)** | YOLO 기반 포트홀 감지 PWA. 촬영 → 추론 → 위치 기록까지 구현 |
+
+<details>
+<summary><b>🛠 사용 기술</b> (펼치기)</summary>
 
 <table>
 <tr>
@@ -76,38 +114,7 @@
 
 <sub>아이콘이 없는 것들 — <a href="https://www.pingcap.com/tidb/"><b>TiDB</b></a>(MySQL 호환 분산 DB) · <b>SQLAlchemy</b> · <b>TanStack Query</b> · <b>Cloudflare R2</b>(오브젝트 스토리지) · <b>Web Push</b> · <a href="https://docs.ultralytics.com"><b>YOLO</b></a> · <a href="https://ai.google.dev"><b>Gemini API</b></a> · <a href="https://www.oracle.com/cloud/"><b>Oracle Cloud</b></a> · <a href="https://www.atlassian.com/software/jira"><b>Jira</b></a></sub>
 
-## 🚀 주요 프로젝트
-
-| 프로젝트 | 설명 |
-| --- | --- |
-| **HSMnT — 사내 경영지원·생산 통합 포털** *(비공개 · 업무 시스템)* | 제조업 현장에서 쓰는 사내 포털을 혼자 설계·개발·운영. 근태·연차·급여명세서·채용(스크리닝·수습평가)·도면 관리(DWG 미리보기)·생산 현장 태블릿·재고/작업 관리까지 하나의 원장(TiDB)에 연결. **React 18 · TypeScript · Vite · Tailwind + Flask · SQLAlchemy**, Vercel(서울 리전) + 크론 7종, 백엔드 기능 모듈 72개 · 자동 점검 테스트 파일 125+. 개인정보 컬럼 암호화, 메뉴별 서버 권한 검증, 비공개 오브젝트 스토리지 + 만료형 서명 URL, 웹 푸시 알림 |
-| **[AI Bunker](https://aibunker.kr)** | Flask 블루프린트 25개+(갤러리·블로그·다이어리·캘린더·GIS·3D 타자·리듬게임·심리/스크리닝 검사·가계부·학습자료 등)를 한 앱으로 묶은 개인 포털. 폰트 2,279종·스킬 425종·애니메이션 아이콘 1,233종 등 오픈소스 자료 아카이브, 로그인 무차별 대입 방어, Vercel 서버리스 + TiDB 운영, 일부 화면은 React/TypeScript SPA로 전환 (커밋 1,800+) |
-| **[drivelog](https://github.com/celldentity/drivelog)** | 안드로이드 단독 1초 단위 주행 기록 → CSV/JSON 자동 내보내기 앱. GitHub Actions로 APK 자동 빌드 |
-| **[crack_project](https://github.com/celldentity/crack_project)** | YOLO 기반 포트홀 감지 PWA. 촬영 → 추론 → 위치 기록까지 풀스택으로 구현 |
-| **[flask26](https://github.com/celldentity/flask26)** | 회원·게시판·성적·LMS 기능을 직접 구현하며 정리한 Flask 앱 |
-| **[With-JIRA-AIX](https://github.com/celldentity/With-JIRA-AIX)** | Jira로 팀 프로젝트 이슈·스프린트를 관리한 협업 기록 |
-| **[AI_26](https://github.com/celldentity/AI_26)** | 머신러닝 기초부터 모델 학습·평가까지 실습 정리 |
-
-> 📖 **[프로젝트 상세 보기 → PROJECTS.md](PROJECTS.md)** — 구조도, 사용 기술, 운영 방식(배포·백업·권한 감사·예약 작업)을 정리했습니다.
-
-### ⚙️ 운영하며 만든 것들 (요약)
-
-- **배포 안전장치** — 패키지 목록 3곳 불일치를 빌드에서 차단, 배포 직후 헬스 체크, 배포본에서 주석·독스트링 제거(AST)
-- **추가만 하는 재고 장부** — 수정 대신 취소 전표, 행 잠금·음수 금지·멱등 키, 과거 전표 재생으로 100% 대조
-- **날짜 기준 재직 판정** — 상태값이 아니라 입사·퇴직일이 효력을 정하도록 한 함수로 통일
-- **개인정보 보호** — 컬럼 암호화, 비공개 버킷 + 2분 서명 URL, 서버 측 메뉴 권한 검증
-- **서버리스 로그인 방어** — DB에 실패 기록을 세는 IP/아이디 이중 제한
-- **백업·감사** — DB 전체 해시 매니페스트 덤프 + 외장 미러, 익명/회원/관리자 3세션 라우트 권한 감사
-- **소유권 이전 절차** — 저장소·배포 연결을 옮길 때 빈 커밋으로 자동배포가 이어지는지 확인하고, 토큰은 프로젝트 범위로 다시 발급
-- **문서 위생** — 개인정보·자주 바뀌는 값은 문서에 쓰지 않고 역할·코드 위치로 대체, 깨진 링크 점검
-
-## 📌 Current Interests
-
-- 엑셀·종이로 흩어진 업무를 **하나의 원장(DB)** 으로 모으는 업무 자동화 / 제조 현장 시스템화
-- 서버리스 환경에서의 Flask 구조 설계와 콜드 스타트 대응
-- 개인 데이터(사진·일기·방문 로그)를 다루는 아카이브 서비스
-- 비전 AI 모델을 실제 웹 서비스에 붙이는 파이프라인
-- 크로스 브라우저 / 모바일 UX 디버깅
+</details>
 
 <div align="center">
 

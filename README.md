@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=230&section=header&text=celldentity&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=%EC%9D%B8%EC%82%AC%C2%B7%EC%B4%9D%EB%AC%B4%20%EC%8B%A4%EB%AC%B4%EC%9E%90%20%C2%B7%20%EC%97%85%EB%AC%B4%20%EC%9E%90%EB%8F%99%ED%99%94%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4&descAlignY=53&descSize=16" />
+<img src="assets/hero.svg" alt="celldentity — 인사·총무 실무자, 반복되는 업무를 직접 만들어 없앱니다" />
 
 [![Website](https://img.shields.io/badge/aibunker.kr-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://aibunker.kr)
 [![Gmail](https://img.shields.io/badge/ksb2116@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksb2116@gmail.com)
@@ -22,6 +22,9 @@
 ### 🎮 AI Bunker · 개인 서비스
 
 갤러리·블로그·일기·지도·타자 연습·리듬 게임·심리 검사까지, 25개+ 기능을 한 앱에 담았습니다.
+
+<a href="https://aibunker.kr"><img src="assets/aibunker-home.jpg" width="49%" alt="AI Bunker 홈" /></a>
+<a href="https://aibunker.kr/typing"><img src="assets/aibunker-typing.jpg" width="49%" alt="AI Bunker 타자 연습" /></a>
 
 [aibunker.kr](https://aibunker.kr) · [타자 연습 해 보기](https://aibunker.kr/typing)
 
@@ -87,9 +90,3 @@
 <sub>아이콘이 없는 것들 — <a href="https://www.pingcap.com/tidb/"><b>TiDB</b></a>(MySQL 호환 분산 DB) · <b>SQLAlchemy</b> · <b>TanStack Query</b> · <b>Cloudflare R2</b>(오브젝트 스토리지) · <b>Web Push</b> · <a href="https://docs.ultralytics.com"><b>YOLO</b></a> · <a href="https://ai.google.dev"><b>Gemini API</b></a> · <a href="https://www.oracle.com/cloud/"><b>Oracle Cloud</b></a> · <a href="https://www.atlassian.com/software/jira"><b>Jira</b></a></sub>
 
 </details>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer" />
-
-</div>
